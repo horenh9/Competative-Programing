@@ -1,0 +1,2 @@
+C:\Users\orenh\source\repos\workshop1\Debug\workshop1.exe
+C:\Users\orenh\source\repos\workshop1\Debug\workshop1.pdb
